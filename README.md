@@ -32,7 +32,7 @@ listed_in : Genere
 
 description: The Summary description
 
-Conclusion
+Conclusion:
 
 Based on the elbow and silhouette scores, it was determined that 26 clusters were optimal and K Means was better than Hierarchical for identifying clusters.
 
